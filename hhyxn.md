@@ -37,7 +37,7 @@
 </p>
 
 <p align= "center">
-[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyxn)](https://github.com/hhyxn/github-readme-stats)
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hhyxn" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhyxn&theme=react&layout=compact" />
 </p>
 

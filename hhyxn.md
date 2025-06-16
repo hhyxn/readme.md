@@ -10,9 +10,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaonan-ye)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannahye0505@gmail.com)
   
 </div>
 
@@ -38,7 +37,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hhyxn&theme=react&show_icons=true&include_all_commits=true" />
+[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyxn)](https://github.com/hhyxn/github-readme-stats)
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhyxn&theme=react&layout=compact" />
 </p>
 
